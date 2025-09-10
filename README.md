@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pgd8/problem_solving_tasks/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/pgd8/problem_solving_tasks/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pgd8/problem_solving_tasks/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/pgd8/problem_solving_tasks/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pgd8/problem_solving_tasks/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pgd8/problem_solving_tasks/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
