@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pgd8/problem_solving_tasks/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pgd8/problem_solving_tasks/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pgd8/problem_solving_tasks/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/pgd8/problem_solving_tasks/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/pgd8/problem_solving_tasks/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -49,4 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pgd8/problem_solving_tasks/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/pgd8/problem_solving_tasks/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pgd8/problem_solving_tasks/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pgd8/problem_solving_tasks/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
